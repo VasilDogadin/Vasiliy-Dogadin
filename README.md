@@ -5,9 +5,17 @@
 ## _Я увлеченный Java-разработчик с желанием учиться и развивать свои навыки._
 
 # _Технические навыки:_
-- Изучаю **MS SQL Server, T-SQL, JAVA**
-- Владею основными навыками офисных программ
-- Люблю изучать и искать новую информацию в развивающей литературе
+- Java (JDK 8+)
+- Spring Framework (Spring Boot, Spring Data, Spring Security)
+- Hibernate ORM (JPA)
+- SQL (TSQL MS SQL server, PostgreSQL)
+- GIT (Github/Gitlab)
+
+# _Мои проекты_
+
+# _Сертификаты_
+
+# _Связь со мной_
 
 ___
 
