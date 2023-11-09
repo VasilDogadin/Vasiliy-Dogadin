@@ -6,7 +6,7 @@
 
 # _Технические навыки:_
 - Java (JDK 8+)
-- Spring Framework (- Spring Boot, - Spring Cloud, - Spring Gateway, - Spring Config, - Spring Cluster, - Spring Data, - Spring Security)
+- Spring Framework (-- Spring Boot, - Spring Cloud, - Spring Gateway, - Spring Config, - Spring Cluster, - Spring Data, - Spring Security)
 - Hibernate ORM (JPA)
 - SQL (TSQL MS SQL server, PostgreSQL)
 - GIT (Github/Gitlab)
